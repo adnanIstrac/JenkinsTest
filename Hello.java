@@ -1,4 +1,4 @@
-public class hotfix
+public class Hello
 {
 	public static void main(String[] args)
 	{

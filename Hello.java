@@ -1,7 +1,7 @@
-public class Hello
+public class feature
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Hello Jenkins");
+		System.out.println("Hello feature");
 	}
 }
